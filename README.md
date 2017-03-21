@@ -1,1 +1,1 @@
-This is my repository for Compilest, a website for conducting test in form of multiple choice questions.
+This is my repository for SIC Assembler written in Ruby language.
